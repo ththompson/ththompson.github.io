@@ -8,4 +8,5 @@ Personal page placeholder.
 
 # Notes
 https://www.ththompson.com/
+
 https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/
